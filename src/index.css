@@ -11,3 +11,43 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* making five new classes in css for the cards*/
+.v-card {
+  margin: 20 px;
+}
+
+.v-card-image {
+  border-radius: 10px;
+  width: 300px;
+  height: 480px;
+  box-shadow: 0px 0px 3px 1px #ccc;
+}
+
+.v-card-info{
+  margin-top: 10px;
+  min-height: 100px;
+}
+
+.v-card-title{
+  font-size: 24px;
+  margin: 0px;
+}
+
+.v-card-subTitle{
+  font-size: 16px;
+  margin: 0px;
+}
+
+/* need to add the CSS for the feedback messages for email */
+
+.success-msg{
+  color: #57a773;
+  padding: 10px 15px;
+}
+
+.err-msg{
+  color: #EE6352;
+  padding: 10px 15px;
+}
