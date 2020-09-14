@@ -36,7 +36,7 @@ class Carousel extends React.Component {
                     title: 'My Recipes',
                     subTitle: 'Check Out The Food I\'ve Made',
                     imgSrc: FoodPic,
-                    link: 'localhost:3000/gallery',
+                    link: 'vivekjadeja.com/gallery',
                     selected: false
                 }
             ]
