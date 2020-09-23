@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d49e8fb0031765cf798518914bde5275",
+    "revision": "c83a71e44bab50089453eba7fb84e05a",
     "url": "/VivekJadeja.github.io/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VivekJadeja.github.io/static/css/2.8aa5a7f8.chunk.css"
   },
   {
-    "revision": "e594f188ee112135e890",
+    "revision": "eacca33e0d46c3086d0e",
     "url": "/VivekJadeja.github.io/static/css/main.748b22ac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VivekJadeja.github.io/static/js/2.5de86346.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e594f188ee112135e890",
-    "url": "/VivekJadeja.github.io/static/js/main.fbab2cc9.chunk.js"
+    "revision": "eacca33e0d46c3086d0e",
+    "url": "/VivekJadeja.github.io/static/js/main.45fe25f8.chunk.js"
   },
   {
     "revision": "7b897e4241aa10e8358f",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/VivekJadeja.github.io/static/media/FoodPic.ba0420e0.JPEG"
   },
   {
-    "revision": "f20b6669437402cd32a1045f56341f8e",
-    "url": "/VivekJadeja.github.io/static/media/ResumeSS.f20b6669.png"
+    "revision": "df5284a0a252259abc095563463bb37d",
+    "url": "/VivekJadeja.github.io/static/media/ResumeSS.df5284a0.png"
   },
   {
     "revision": "59a6979d4be1bebb30841252c38613b9",
