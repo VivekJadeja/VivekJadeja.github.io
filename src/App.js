@@ -37,7 +37,7 @@ class App extends React.Component {
         title: "What's There To Know?"
       },
       gallery: {
-        title: "My Recipes"
+        title: "Culinary Skills"
       },
       contact: {
         title: "Send Me A Message"

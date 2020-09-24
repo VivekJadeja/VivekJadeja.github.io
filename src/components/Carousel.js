@@ -35,7 +35,7 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 2, /*key to indicate which card it is*/
-                    title: 'My Recipes',
+                    title: 'Culinary Skills',
                     subTitle: 'Check Out The Food I\'ve Made',
                     imgSrc: FoodPic,
                     link: '/gallery',
