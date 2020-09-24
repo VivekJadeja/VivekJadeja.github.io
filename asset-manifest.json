@@ -1,21 +1,36 @@
 {
   "files": {
     "main.css": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css",
-    "main.js": "/VivekJadeja.github.io/static/js/main.a836398a.chunk.js",
-    "main.js.map": "/VivekJadeja.github.io/static/js/main.a836398a.chunk.js.map",
+    "main.js": "/VivekJadeja.github.io/static/js/main.495650a7.chunk.js",
+    "main.js.map": "/VivekJadeja.github.io/static/js/main.495650a7.chunk.js.map",
     "runtime-main.js": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js",
     "runtime-main.js.map": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js.map",
     "static/css/2.2c03fcd7.chunk.css": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css",
-    "static/js/2.52a9da26.chunk.js": "/VivekJadeja.github.io/static/js/2.52a9da26.chunk.js",
-    "static/js/2.52a9da26.chunk.js.map": "/VivekJadeja.github.io/static/js/2.52a9da26.chunk.js.map",
+    "static/js/2.fad270df.chunk.js": "/VivekJadeja.github.io/static/js/2.fad270df.chunk.js",
+    "static/js/2.fad270df.chunk.js.map": "/VivekJadeja.github.io/static/js/2.fad270df.chunk.js.map",
     "index.html": "/VivekJadeja.github.io/index.html",
-    "precache-manifest.8bf9be4a83766f44a58213d49cfe3484.js": "/VivekJadeja.github.io/precache-manifest.8bf9be4a83766f44a58213d49cfe3484.js",
+    "precache-manifest.36f98832be076ede178b778ba3e6bce7.js": "/VivekJadeja.github.io/precache-manifest.36f98832be076ede178b778ba3e6bce7.js",
     "service-worker.js": "/VivekJadeja.github.io/service-worker.js",
     "static/css/2.2c03fcd7.chunk.css.map": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css.map",
     "static/css/main.cf969760.chunk.css.map": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css.map",
-    "static/js/2.52a9da26.chunk.js.LICENSE.txt": "/VivekJadeja.github.io/static/js/2.52a9da26.chunk.js.LICENSE.txt",
+    "static/js/2.fad270df.chunk.js.LICENSE.txt": "/VivekJadeja.github.io/static/js/2.fad270df.chunk.js.LICENSE.txt",
+    "static/media/CaramelThumbprint.jpeg": "/VivekJadeja.github.io/static/media/CaramelThumbprint.6a5a0e79.jpeg",
+    "static/media/Charcuterie.jpeg": "/VivekJadeja.github.io/static/media/Charcuterie.f6129349.jpeg",
+    "static/media/Curry.jpeg": "/VivekJadeja.github.io/static/media/Curry.2d0217c6.jpeg",
+    "static/media/EggSandwich.jpeg": "/VivekJadeja.github.io/static/media/EggSandwich.9691efea.jpeg",
     "static/media/FoodPic.JPEG": "/VivekJadeja.github.io/static/media/FoodPic.ba0420e0.JPEG",
+    "static/media/FroYoCake.JPG": "/VivekJadeja.github.io/static/media/FroYoCake.e8dddcc7.JPG",
+    "static/media/FruitPlatter.jpeg": "/VivekJadeja.github.io/static/media/FruitPlatter.38297641.jpeg",
+    "static/media/GingrbrdCookies.jpeg": "/VivekJadeja.github.io/static/media/GingrbrdCookies.e686107c.jpeg",
+    "static/media/LmnRspbCake.jpeg": "/VivekJadeja.github.io/static/media/LmnRspbCake.8e358505.jpeg",
+    "static/media/LmnRspbSlice.JPG": "/VivekJadeja.github.io/static/media/LmnRspbSlice.53ddb206.JPG",
+    "static/media/Meatballs.jpeg": "/VivekJadeja.github.io/static/media/Meatballs.a016d85c.jpeg",
     "static/media/ResumeSS.png": "/VivekJadeja.github.io/static/media/ResumeSS.df5284a0.png",
+    "static/media/Salmon.jpeg": "/VivekJadeja.github.io/static/media/Salmon.2d3565ed.jpeg",
+    "static/media/ShrimpScampi.jpeg": "/VivekJadeja.github.io/static/media/ShrimpScampi.19f6d4bf.jpeg",
+    "static/media/StrbCake.jpeg": "/VivekJadeja.github.io/static/media/StrbCake.e2790579.jpeg",
+    "static/media/XmasCookies.JPG": "/VivekJadeja.github.io/static/media/XmasCookies.411c6b38.JPG",
+    "static/media/Zuppa.jpeg": "/VivekJadeja.github.io/static/media/Zuppa.4d57afa0.jpeg",
     "static/media/mdb.css": "/VivekJadeja.github.io/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/VivekJadeja.github.io/static/media/fa-solid-900.ee09ad75.woff",
     "static/media/ghubPic.png": "/VivekJadeja.github.io/static/media/ghubPic.59a6979d.png"
@@ -23,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf08b16c.js",
     "static/css/2.2c03fcd7.chunk.css",
-    "static/js/2.52a9da26.chunk.js",
+    "static/js/2.fad270df.chunk.js",
     "static/css/main.cf969760.chunk.css",
-    "static/js/main.a836398a.chunk.js"
+    "static/js/main.495650a7.chunk.js"
   ]
 }

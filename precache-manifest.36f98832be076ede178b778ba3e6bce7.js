@@ -1,39 +1,99 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77d59b234a4017ba828553cfff6fcd38",
+    "revision": "ed455ea598aab34c94920586f2b8882d",
     "url": "/VivekJadeja.github.io/index.html"
   },
   {
-    "revision": "501ddb79fdb24989b74b",
+    "revision": "8ac29c0bf01ef6050c48",
     "url": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css"
   },
   {
-    "revision": "10e7b28f02699f57f382",
+    "revision": "773a6fc079015e17d87a",
     "url": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css"
   },
   {
-    "revision": "501ddb79fdb24989b74b",
-    "url": "/VivekJadeja.github.io/static/js/2.52a9da26.chunk.js"
+    "revision": "8ac29c0bf01ef6050c48",
+    "url": "/VivekJadeja.github.io/static/js/2.fad270df.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/VivekJadeja.github.io/static/js/2.52a9da26.chunk.js.LICENSE.txt"
+    "url": "/VivekJadeja.github.io/static/js/2.fad270df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10e7b28f02699f57f382",
-    "url": "/VivekJadeja.github.io/static/js/main.a836398a.chunk.js"
+    "revision": "773a6fc079015e17d87a",
+    "url": "/VivekJadeja.github.io/static/js/main.495650a7.chunk.js"
   },
   {
     "revision": "7b897e4241aa10e8358f",
     "url": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js"
   },
   {
+    "revision": "6a5a0e799e2fb769b54229f088278376",
+    "url": "/VivekJadeja.github.io/static/media/CaramelThumbprint.6a5a0e79.jpeg"
+  },
+  {
+    "revision": "f6129349ce30f5009e7b1ecec78798e8",
+    "url": "/VivekJadeja.github.io/static/media/Charcuterie.f6129349.jpeg"
+  },
+  {
+    "revision": "2d0217c66ccbacf94b055358d9c83310",
+    "url": "/VivekJadeja.github.io/static/media/Curry.2d0217c6.jpeg"
+  },
+  {
+    "revision": "9691efeae0a924463ee68789b3a5fc75",
+    "url": "/VivekJadeja.github.io/static/media/EggSandwich.9691efea.jpeg"
+  },
+  {
     "revision": "ba0420e03902cb24b80753d2f2e259aa",
     "url": "/VivekJadeja.github.io/static/media/FoodPic.ba0420e0.JPEG"
   },
   {
+    "revision": "e8dddcc75852e780f66dc31888618ced",
+    "url": "/VivekJadeja.github.io/static/media/FroYoCake.e8dddcc7.JPG"
+  },
+  {
+    "revision": "3829764149682539c98a37fcb321d947",
+    "url": "/VivekJadeja.github.io/static/media/FruitPlatter.38297641.jpeg"
+  },
+  {
+    "revision": "e686107cd4c8d1cc9bf9579ec6c740e3",
+    "url": "/VivekJadeja.github.io/static/media/GingrbrdCookies.e686107c.jpeg"
+  },
+  {
+    "revision": "8e3585052cfbe2430b4b3a66a7aa3561",
+    "url": "/VivekJadeja.github.io/static/media/LmnRspbCake.8e358505.jpeg"
+  },
+  {
+    "revision": "53ddb2060f6f00b547125dcd9d50bb97",
+    "url": "/VivekJadeja.github.io/static/media/LmnRspbSlice.53ddb206.JPG"
+  },
+  {
+    "revision": "a016d85c396d449f1ddf2cfdf350c392",
+    "url": "/VivekJadeja.github.io/static/media/Meatballs.a016d85c.jpeg"
+  },
+  {
     "revision": "df5284a0a252259abc095563463bb37d",
     "url": "/VivekJadeja.github.io/static/media/ResumeSS.df5284a0.png"
+  },
+  {
+    "revision": "2d3565edcebdb064c41484693983787a",
+    "url": "/VivekJadeja.github.io/static/media/Salmon.2d3565ed.jpeg"
+  },
+  {
+    "revision": "19f6d4bfe5c19e0a5c2761077c1bf711",
+    "url": "/VivekJadeja.github.io/static/media/ShrimpScampi.19f6d4bf.jpeg"
+  },
+  {
+    "revision": "e2790579a82d1a81fd54897b1ee3ab52",
+    "url": "/VivekJadeja.github.io/static/media/StrbCake.e2790579.jpeg"
+  },
+  {
+    "revision": "411c6b386c2a50e0157b355453da9ea8",
+    "url": "/VivekJadeja.github.io/static/media/XmasCookies.411c6b38.JPG"
+  },
+  {
+    "revision": "4d57afa07439b48349e2239ea8878c3a",
+    "url": "/VivekJadeja.github.io/static/media/Zuppa.4d57afa0.jpeg"
   },
   {
     "revision": "11911410dca2de148f30954eb2fd5eab",
