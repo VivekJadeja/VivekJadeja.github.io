@@ -10,7 +10,6 @@ function GalleryPage({ title }) {
     return (
         <div>
            <Hero title={title} />
-            
             <div>
                 <div className="row ">
                     <div className="column">
