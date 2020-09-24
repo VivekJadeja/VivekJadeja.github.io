@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css",
-    "main.js": "/VivekJadeja.github.io/static/js/main.63aae255.chunk.js",
-    "main.js.map": "/VivekJadeja.github.io/static/js/main.63aae255.chunk.js.map",
+    "main.js": "/VivekJadeja.github.io/static/js/main.6385b94f.chunk.js",
+    "main.js.map": "/VivekJadeja.github.io/static/js/main.6385b94f.chunk.js.map",
     "runtime-main.js": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js",
     "runtime-main.js.map": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js.map",
     "static/css/2.2c03fcd7.chunk.css": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css",
     "static/js/2.97fb63ce.chunk.js": "/VivekJadeja.github.io/static/js/2.97fb63ce.chunk.js",
     "static/js/2.97fb63ce.chunk.js.map": "/VivekJadeja.github.io/static/js/2.97fb63ce.chunk.js.map",
     "index.html": "/VivekJadeja.github.io/index.html",
-    "precache-manifest.d4fad49bec81a082f6e872031c3cbb65.js": "/VivekJadeja.github.io/precache-manifest.d4fad49bec81a082f6e872031c3cbb65.js",
+    "precache-manifest.668bf2ff80412e11b9f8fd4d36bf454e.js": "/VivekJadeja.github.io/precache-manifest.668bf2ff80412e11b9f8fd4d36bf454e.js",
     "service-worker.js": "/VivekJadeja.github.io/service-worker.js",
     "static/css/2.2c03fcd7.chunk.css.map": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css.map",
     "static/css/main.cf969760.chunk.css.map": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css.map",
@@ -25,6 +25,6 @@
     "static/css/2.2c03fcd7.chunk.css",
     "static/js/2.97fb63ce.chunk.js",
     "static/css/main.cf969760.chunk.css",
-    "static/js/main.63aae255.chunk.js"
+    "static/js/main.6385b94f.chunk.js"
   ]
 }
