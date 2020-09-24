@@ -1,7 +1,5 @@
 import React from 'react';
 
-import ResumeSS from '../assets/ResumeSS.png';
-import ghubPic from '../assets/ghubPic.png';
 import FoodPic from '../assets/FoodPic.JPEG';
 import CaramelThumbprint from '../assets/CaramelThumbprint.jpeg';
 import Charcuterie from '../assets/Charcuterie.jpeg';
