@@ -21,7 +21,8 @@ class Carousel extends React.Component {
                     subTitle: 'Check Out The Things I\'ve Done',
                     imgSrc: ResumeSS,
                     link: 'https://drive.google.com/file/d/1g2BljiclQTPYgcfRSAHuYae_8pL-cKpF/view?usp=sharing',
-                    selected: false
+                    selected: false,
+                    isPage: false
                 },
                 {
                     id: 1, /*key to indicate which card it is*/
@@ -29,7 +30,8 @@ class Carousel extends React.Component {
                     subTitle: 'Check Out Some Code I\'ve Written',
                     imgSrc: ghubPic,
                     link: 'https://github.com/vivekjadeja',
-                    selected: false
+                    selected: false,
+                    isPage: false
                 },
                 {
                     id: 2, /*key to indicate which card it is*/
@@ -37,7 +39,8 @@ class Carousel extends React.Component {
                     subTitle: 'Check Out The Food I\'ve Made',
                     imgSrc: FoodPic,
                     link: '/gallery',
-                    selected: false
+                    selected: false,
+                    isPage: true
                 }
             ]
         }

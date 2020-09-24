@@ -13,7 +13,7 @@ function Card(props) {
                 </BCard>
 
 
-                {props.item.selected && <CardInfo title={props.item.title} subTitle={props.item.subTitle} link={props.item.link} />}
+                {props.item.selected && <CardInfo title={props.item.title} subTitle={props.item.subTitle} link={props.item.link} isPage={props.item.isPage}/>}
             </div>
         </Col>
     );
