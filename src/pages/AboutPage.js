@@ -26,7 +26,7 @@ function AboutPage({ title }) {
             </p>
 
             <p>
-                    In my off-time, I enjoy <a href="https://github.com/vivekjadeja">creating new projects</a>, going on road-trips, and <Link to="/gallery">baking</Link>.
+                    In my off-time, I enjoy <a href="https://github.com/vivekjadeja" target="_blank" rel="noopnener noreferrer">creating new projects</a>, going on road-trips, and <Link to="/gallery">baking</Link>.
             </p>
 
             </Content>
