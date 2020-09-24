@@ -2,7 +2,7 @@ import React from 'react';
 import { useSpring, animated } from 'react-spring';
 import { LinkContainer } from 'react-router-bootstrap';
 import NavbarCollapse from 'react-bootstrap/esm/NavbarCollapse';
-import {Link} from "react-router-dom";
+import {NavLink} from "react-router-dom";
 
 
 function CardInfo(props) {
@@ -16,9 +16,9 @@ function CardInfo(props) {
         <animated.div className="v-card-info" style={style}>
             <p className="v-card-title">{props.title}</p>
             {props.isPage ?
-                <Link className="v-card-subTitle" to={props.link} target="_blank" rel="noopnener noreferrer">
+                <NavLink className="v-card-subTitle" to={props.link} target="_blank" rel="noopnener noreferrer">
                     {props.subTitle}
-                   </Link> :
+                   </NavLink> :
                 <a className="v-card-subTitle" href={props.link} target="_blank" rel="noopnener noreferrer">{props.subTitle}</a>
             }
             {/*this <a></a> above is an anchor tag for a link*/}
