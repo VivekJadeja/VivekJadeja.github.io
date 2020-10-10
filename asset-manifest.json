@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css",
-    "main.js": "/VivekJadeja.github.io/static/js/main.deb36288.chunk.js",
-    "main.js.map": "/VivekJadeja.github.io/static/js/main.deb36288.chunk.js.map",
+    "main.js": "/VivekJadeja.github.io/static/js/main.22df621e.chunk.js",
+    "main.js.map": "/VivekJadeja.github.io/static/js/main.22df621e.chunk.js.map",
     "runtime-main.js": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js",
     "runtime-main.js.map": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js.map",
     "static/css/2.2c03fcd7.chunk.css": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css",
-    "static/js/2.77f00fd6.chunk.js": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js",
-    "static/js/2.77f00fd6.chunk.js.map": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js.map",
+    "static/js/2.75e130b3.chunk.js": "/VivekJadeja.github.io/static/js/2.75e130b3.chunk.js",
+    "static/js/2.75e130b3.chunk.js.map": "/VivekJadeja.github.io/static/js/2.75e130b3.chunk.js.map",
     "index.html": "/VivekJadeja.github.io/index.html",
-    "precache-manifest.43b3f5536a888e0d7bc2ffe294a13ec4.js": "/VivekJadeja.github.io/precache-manifest.43b3f5536a888e0d7bc2ffe294a13ec4.js",
+    "precache-manifest.98ee33e83c5e7b9446f0b19967b603f9.js": "/VivekJadeja.github.io/precache-manifest.98ee33e83c5e7b9446f0b19967b603f9.js",
     "service-worker.js": "/VivekJadeja.github.io/service-worker.js",
     "static/css/2.2c03fcd7.chunk.css.map": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css.map",
     "static/css/main.cf969760.chunk.css.map": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css.map",
-    "static/js/2.77f00fd6.chunk.js.LICENSE.txt": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js.LICENSE.txt",
+    "static/js/2.75e130b3.chunk.js.LICENSE.txt": "/VivekJadeja.github.io/static/js/2.75e130b3.chunk.js.LICENSE.txt",
     "static/media/CaramelThumbprint.jpeg": "/VivekJadeja.github.io/static/media/CaramelThumbprint.6a5a0e79.jpeg",
     "static/media/Charcuterie.jpeg": "/VivekJadeja.github.io/static/media/Charcuterie.f6129349.jpeg",
     "static/media/Curry.jpeg": "/VivekJadeja.github.io/static/media/Curry.2d0217c6.jpeg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.cf08b16c.js",
     "static/css/2.2c03fcd7.chunk.css",
-    "static/js/2.77f00fd6.chunk.js",
+    "static/js/2.75e130b3.chunk.js",
     "static/css/main.cf969760.chunk.css",
-    "static/js/main.deb36288.chunk.js"
+    "static/js/main.22df621e.chunk.js"
   ]
 }
