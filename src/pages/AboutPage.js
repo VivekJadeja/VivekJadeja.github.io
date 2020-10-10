@@ -19,14 +19,16 @@ function AboutPage({ title }) {
                 <p>I am currently seeking a full-time software engineering
                 position to begin my career.
                 I have experience with a multitude of programming
-                languages including C++, Python, JavaScript, HTML, CSS, and R.
-                My passion for learning has led me to gain experience with
-                ReactJS, ExpressJS, and NodeJS.
-                I am also experienced with RDBMS's such as MySQL and SQLite.
+                languages including Python, C++, JavaScript, HTML, CSS, and R.
+                My passion for learning has led me to gain familiarity with
+                technologies such as ReactJS, ExpressJS, and NodeJS.
+                I am also experienced with RDBMS's like MySQL and SQLite.
             </p>
 
             <p>
-                    In my off-time, I enjoy <a href="https://github.com/vivekjadeja" target="_blank" rel="noopnener noreferrer">creating new projects</a>, going on road-trips, and <Link to="/gallery">cooking/baking</Link>.
+                    In my off-time, I enjoy <a href="https://github.com/vivekjadeja" target="_blank" rel="noopnener noreferrer">creating new projects</a>, <a> </a>
+                    <a href="https://www.youtube.com/channel/UCslLOQM6syRqErSQ4N2QXeA" target="_blank" rel="noopnener noreferrer">giving advice to those who are new to computer science</a>
+                    , going on road-trips, and <Link to="/gallery">cooking/baking</Link>.
             </p>
 
             </Content>

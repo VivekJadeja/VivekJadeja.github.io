@@ -15,11 +15,9 @@ function CardInfo(props) {
         <animated.div className="v-card-info" style={style}>
             <p className="v-card-title">{props.title}</p>
             {props.isPage ?
-                <LinkContainer className="v-card-subTitle" to={props.link} target="_blank" rel="noopnener noreferrer">
-                    <Link>
-                        {props.subTitle}
-                    </Link>
-                </LinkContainer> :
+                <Link className="v-card-subTitle" to={props.link} target="_blank" rel="noopnener noreferrer">
+                    {props.subTitle}
+                </Link> :
                 <a className="v-card-subTitle" href={props.link} target="_blank" rel="noopnener noreferrer">{props.subTitle}</a>
             }
             {/*this <a></a> above is an anchor tag for a link*/}

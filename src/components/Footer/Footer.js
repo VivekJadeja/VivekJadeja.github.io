@@ -11,6 +11,9 @@ function Footer(){
                     <Col className="p-0" md={3} sm={12}>
                         Vivek Jadeja
                     </Col>
+                    <Col className="p-0" md={2} sm={12}>
+                        Built Using ReactJS and NodeJS
+                    </Col>
                     <Col className="p-0 d-flex justify-content-end" md={3}>
                         <p>Copyright &copy; 2020 - Vivek Jadeja. All Rights Reserved.</p>
                     </Col>
