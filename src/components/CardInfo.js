@@ -2,7 +2,7 @@ import React from 'react';
 import { useSpring, animated } from 'react-spring';
 import { LinkContainer } from 'react-router-bootstrap';
 import Nav from "react-bootstrap/Nav";
-
+import { Link } from 'react-router-dom'
 
 function CardInfo(props) {
     /* This useSpring method takes in an object that
@@ -16,9 +16,9 @@ function CardInfo(props) {
             <p className="v-card-title">{props.title}</p>
             {props.isPage ?
                 <LinkContainer className="v-card-subTitle" to={props.link} target="_blank" rel="noopnener noreferrer">
-                    <Nav.Link>
+                    <Link>
                         {props.subTitle}
-                    </Nav.Link>
+                    </Link>
                 </LinkContainer> :
                 <a className="v-card-subTitle" href={props.link} target="_blank" rel="noopnener noreferrer">{props.subTitle}</a>
             }
