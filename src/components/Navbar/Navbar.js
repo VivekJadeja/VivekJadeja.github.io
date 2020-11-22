@@ -6,11 +6,11 @@ import { LinkContainer } from 'react-router-bootstrap';
 
 
 const contactStyle = {
-    color:"rgba(0, 0, 0, 0.5)",
+    color: "rgba(0, 0, 0, 0.5)",
     textDecoration: "none",
     ':hover': {
         textDecoration: "none",
-      color: "rgba(0,0,0,0.7)"
+        color: "rgba(0,0,0,0.7)"
     }
 }
 
