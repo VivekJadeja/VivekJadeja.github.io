@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "977ff4f3c1726d537b4f978cb390d7fb",
+    "revision": "73a7f3f39e343b5a58e809d9c912c12a",
     "url": "/VivekJadeja.github.io/index.html"
   },
   {
-    "revision": "7f809ed0fbcb85052021",
+    "revision": "53dda89ba0e75fb7b60d",
     "url": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css"
   },
   {
-    "revision": "ce6cb0998ccac8c1fba1",
+    "revision": "2725618264ff2842adcc",
     "url": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css"
   },
   {
-    "revision": "7f809ed0fbcb85052021",
-    "url": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js"
+    "revision": "53dda89ba0e75fb7b60d",
+    "url": "/VivekJadeja.github.io/static/js/2.55d149e5.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js.LICENSE.txt"
+    "url": "/VivekJadeja.github.io/static/js/2.55d149e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce6cb0998ccac8c1fba1",
-    "url": "/VivekJadeja.github.io/static/js/main.b9f281a1.chunk.js"
+    "revision": "2725618264ff2842adcc",
+    "url": "/VivekJadeja.github.io/static/js/main.7238afe5.chunk.js"
   },
   {
     "revision": "7b897e4241aa10e8358f",
