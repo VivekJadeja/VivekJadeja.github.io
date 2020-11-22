@@ -1,7 +1,5 @@
 import React from 'react';
 import { useSpring, animated } from 'react-spring';
-import { LinkContainer } from 'react-router-bootstrap';
-import Nav from "react-bootstrap/Nav";
 import { Link } from 'react-router-dom'
 
 function CardInfo(props) {

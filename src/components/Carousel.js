@@ -1,7 +1,6 @@
 import React from 'react';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
-import { Image } from 'react-bootstrap';
 
 
 import Card from '../components/Card';
@@ -9,7 +8,7 @@ import Card from '../components/Card';
 import ResumeSS from '../assets/ResumeSS.png'
 import ghubPic from '../assets/ghubPic.png'
 import FoodPic from '../assets/FoodPic.JPEG'
-import { Col } from 'react-bootstrap'
+
 class Carousel extends React.Component {
     constructor(props) {
         super(props);

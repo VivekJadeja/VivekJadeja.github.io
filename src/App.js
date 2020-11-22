@@ -4,9 +4,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom";
-import Container from "react-bootstrap/Container";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
+
 import './App.css';
 
 import NavBar from './components/Navbar/Navbar';

@@ -1,6 +1,6 @@
 import React from 'react';
 import CardInfo from '../components/CardInfo';
-import { Image, Col, Card as BCard } from 'react-bootstrap';
+import { Col, Card as BCard } from 'react-bootstrap';
 
 function Card(props) {
     return (
