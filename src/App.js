@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Switch,
   Route,
 } from "react-router-dom";
@@ -47,7 +47,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         {/* <Container className="p-0" fluid={true}> fluid true means no margins */}
         <NavBar />
         {/*This Route stuff basically says that when we are
