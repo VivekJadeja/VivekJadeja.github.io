@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css",
-    "main.js": "/VivekJadeja.github.io/static/js/main.8bfa19ad.chunk.js",
-    "main.js.map": "/VivekJadeja.github.io/static/js/main.8bfa19ad.chunk.js.map",
+    "main.js": "/VivekJadeja.github.io/static/js/main.6c7442ce.chunk.js",
+    "main.js.map": "/VivekJadeja.github.io/static/js/main.6c7442ce.chunk.js.map",
     "runtime-main.js": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js",
     "runtime-main.js.map": "/VivekJadeja.github.io/static/js/runtime-main.cf08b16c.js.map",
     "static/css/2.2c03fcd7.chunk.css": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css",
     "static/js/2.77f00fd6.chunk.js": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js",
     "static/js/2.77f00fd6.chunk.js.map": "/VivekJadeja.github.io/static/js/2.77f00fd6.chunk.js.map",
     "index.html": "/VivekJadeja.github.io/index.html",
-    "precache-manifest.437eccb865b752bb88a90c32f63810a2.js": "/VivekJadeja.github.io/precache-manifest.437eccb865b752bb88a90c32f63810a2.js",
+    "precache-manifest.d77ff7bd75babd92909ce1ba8e4931d1.js": "/VivekJadeja.github.io/precache-manifest.d77ff7bd75babd92909ce1ba8e4931d1.js",
     "service-worker.js": "/VivekJadeja.github.io/service-worker.js",
     "static/css/2.2c03fcd7.chunk.css.map": "/VivekJadeja.github.io/static/css/2.2c03fcd7.chunk.css.map",
     "static/css/main.cf969760.chunk.css.map": "/VivekJadeja.github.io/static/css/main.cf969760.chunk.css.map",
@@ -25,7 +25,7 @@
     "static/media/LmnRspbCake.jpeg": "/VivekJadeja.github.io/static/media/LmnRspbCake.8e358505.jpeg",
     "static/media/LmnRspbSlice.JPG": "/VivekJadeja.github.io/static/media/LmnRspbSlice.53ddb206.JPG",
     "static/media/Meatballs.jpeg": "/VivekJadeja.github.io/static/media/Meatballs.a016d85c.jpeg",
-    "static/media/ResumeSS.png": "/VivekJadeja.github.io/static/media/ResumeSS.df5284a0.png",
+    "static/media/ResumeSS.png": "/VivekJadeja.github.io/static/media/ResumeSS.68b481bb.png",
     "static/media/Salmon.jpeg": "/VivekJadeja.github.io/static/media/Salmon.2d3565ed.jpeg",
     "static/media/ShrimpScampi.jpeg": "/VivekJadeja.github.io/static/media/ShrimpScampi.19f6d4bf.jpeg",
     "static/media/StrbCake.jpeg": "/VivekJadeja.github.io/static/media/StrbCake.e2790579.jpeg",
@@ -40,6 +40,6 @@
     "static/css/2.2c03fcd7.chunk.css",
     "static/js/2.77f00fd6.chunk.js",
     "static/css/main.cf969760.chunk.css",
-    "static/js/main.8bfa19ad.chunk.js"
+    "static/js/main.6c7442ce.chunk.js"
   ]
 }
