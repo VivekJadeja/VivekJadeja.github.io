@@ -47,7 +47,7 @@ class App extends React.Component {
 
   render() {
     return (
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         {/* <Container className="p-0" fluid={true}> fluid true means no margins */}
         <NavBar />
         {/*This Route stuff basically says that when we are
